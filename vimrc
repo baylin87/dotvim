@@ -1,4 +1,6 @@
+" basic setting
 set number
+set showcmd
 
 " vimrc extension
 set runtimepath+=~/.vim_runtime
